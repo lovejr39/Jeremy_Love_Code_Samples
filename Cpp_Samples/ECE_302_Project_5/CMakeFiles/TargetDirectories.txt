@@ -1,0 +1,6 @@
+/home/jeremy/starter-code-ece0302/projects/project5/CMakeFiles/rebuild_cache.dir
+/home/jeremy/starter-code-ece0302/projects/project5/CMakeFiles/edit_cache.dir
+/home/jeremy/starter-code-ece0302/projects/project5/CMakeFiles/test.dir
+/home/jeremy/starter-code-ece0302/projects/project5/CMakeFiles/submission.dir
+/home/jeremy/starter-code-ece0302/projects/project5/CMakeFiles/test-solver.dir
+/home/jeremy/starter-code-ece0302/projects/project5/CMakeFiles/test-frontier-queue.dir

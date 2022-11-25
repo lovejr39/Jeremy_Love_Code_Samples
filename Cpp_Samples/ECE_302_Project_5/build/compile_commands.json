@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/jeremy/starter-code-ece0302/projects/project5/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/test-solver.dir/test_solver.cpp.o -c /home/jeremy/starter-code-ece0302/projects/project5/test_solver.cpp",
+  "file": "/home/jeremy/starter-code-ece0302/projects/project5/test_solver.cpp"
+},
+{
+  "directory": "/home/jeremy/starter-code-ece0302/projects/project5/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/test-solver.dir/puzzle.cpp.o -c /home/jeremy/starter-code-ece0302/projects/project5/puzzle.cpp",
+  "file": "/home/jeremy/starter-code-ece0302/projects/project5/puzzle.cpp"
+},
+{
+  "directory": "/home/jeremy/starter-code-ece0302/projects/project5/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/test-solver.dir/puzzle_solver.cpp.o -c /home/jeremy/starter-code-ece0302/projects/project5/puzzle_solver.cpp",
+  "file": "/home/jeremy/starter-code-ece0302/projects/project5/puzzle_solver.cpp"
+},
+{
+  "directory": "/home/jeremy/starter-code-ece0302/projects/project5/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/test-frontier-queue.dir/test_frontier_queue.cpp.o -c /home/jeremy/starter-code-ece0302/projects/project5/test_frontier_queue.cpp",
+  "file": "/home/jeremy/starter-code-ece0302/projects/project5/test_frontier_queue.cpp"
+}
+]
