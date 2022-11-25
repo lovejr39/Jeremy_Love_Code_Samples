@@ -1,0 +1,5 @@
+/home/jeremy/starter-code-ece0302/projects/project1/build/CMakeFiles/rebuild_cache.dir
+/home/jeremy/starter-code-ece0302/projects/project1/build/CMakeFiles/edit_cache.dir
+/home/jeremy/starter-code-ece0302/projects/project1/build/CMakeFiles/test.dir
+/home/jeremy/starter-code-ece0302/projects/project1/build/CMakeFiles/submission.dir
+/home/jeremy/starter-code-ece0302/projects/project1/build/CMakeFiles/bitset-tests.dir

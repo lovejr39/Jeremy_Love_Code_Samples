@@ -1,0 +1,214 @@
+ECE 0301 - Electrical Network Simulation
+
+------------------------------------------------
+
+Data for Electric Network # 0:
+Network # 0 is a Voltage Divider.
+At present, there are 1 Networks in existence.
+At present, there are 3 nodes in existence.
+Network # 0 contains 3 nodes.
+Voltage at node 0 = 0.
+Voltage at node 1 = 12.
+Voltage at node 2 = 4.
+At present, there are 3 components in existence.
+
+Component # 0 is a DC Voltage Source, Vs = 12 Volts.
+Component # 0 is connected between node 0 and node 1.
+The Voltage across Component # 0 = 12 Volts,
+with the negative terminal at node 0.
+The current in this DC Voltage Source = 0.04 Amps,
+flowing from Node 0 to Node 1.
+The power supplied by this DC Voltage Source = 0.48 Watts.
+
+Component # 1 is a Resistor, R = 200 Ohms.
+Component # 1 is connected between node 1 and node 2.
+The Voltage across Component # 1 = 8 Volts,
+with the negative terminal at node 2.
+The current in this Resistor = 0.04 Amps,
+flowing from Node 1 to Node 2.
+The power dissipated in this Resistor = 0.32 Watts.
+
+Component # 2 is a Resistor, R = 100 Ohms.
+Component # 2 is connected between node 2 and node 0.
+The Voltage across Component # 2 = 4 Volts,
+with the negative terminal at node 0.
+The current in this Resistor = 0.04 Amps,
+flowing from Node 2 to Node 0.
+The power dissipated in this Resistor = 0.16 Watts.
+
+------------------------------------------------
+
+Data for Electric Network # 1:
+Network # 1 is a Voltage Divider.
+At present, there are 2 Networks in existence.
+At present, there are 6 nodes in existence.
+Network # 1 contains 3 nodes.
+Voltage at node 3 = 0.
+Voltage at node 4 = -15.
+Voltage at node 5 = -12.
+At present, there are 6 components in existence.
+
+Component # 3 is a DC Voltage Source, Vs = -15 Volts.
+Component # 3 is connected between node 3 and node 4.
+The Voltage across Component # 3 = 15 Volts,
+with the negative terminal at node 4.
+The current in this DC Voltage Source = 0.001 Amps,
+flowing from Node 4 to Node 3.
+The power supplied by this DC Voltage Source = 0.015 Watts.
+
+Component # 4 is a Resistor, R = 3000 Ohms.
+Component # 4 is connected between node 4 and node 5.
+The Voltage across Component # 4 = 3 Volts,
+with the negative terminal at node 4.
+The current in this Resistor = 0.001 Amps,
+flowing from Node 5 to Node 4.
+The power dissipated in this Resistor = 0.003 Watts.
+
+Component # 5 is a Resistor, R = 12000 Ohms.
+Component # 5 is connected between node 5 and node 3.
+The Voltage across Component # 5 = 12 Volts,
+with the negative terminal at node 5.
+The current in this Resistor = 0.001 Amps,
+flowing from Node 3 to Node 5.
+The power dissipated in this Resistor = 0.012 Watts.
+
+------------------------------------------------
+
+Data for Electric Network # 2:
+Network # 2 is a Voltage Divider.
+At present, there are 3 Networks in existence.
+At present, there are 9 nodes in existence.
+Network # 2 contains 3 nodes.
+Voltage at node 6 = 0.
+Voltage at node 7 = 300.
+Voltage at node 8 = 270.
+At present, there are 9 components in existence.
+
+Component # 6 is a DC Voltage Source, Vs = 300 Volts.
+Component # 6 is connected between node 6 and node 7.
+The Voltage across Component # 6 = 300 Volts,
+with the negative terminal at node 6.
+The current in this DC Voltage Source = 1 Amps,
+flowing from Node 6 to Node 7.
+The power supplied by this DC Voltage Source = 300 Watts.
+
+Component # 7 is a Resistor, R = 30 Ohms.
+Component # 7 is connected between node 7 and node 8.
+The Voltage across Component # 7 = 30 Volts,
+with the negative terminal at node 8.
+The current in this Resistor = 1 Amps,
+flowing from Node 7 to Node 8.
+The power dissipated in this Resistor = 30 Watts.
+
+Component # 8 is a Resistor, R = 270 Ohms.
+Component # 8 is connected between node 8 and node 6.
+The Voltage across Component # 8 = 270 Volts,
+with the negative terminal at node 6.
+The current in this Resistor = 1 Amps,
+flowing from Node 8 to Node 6.
+The power dissipated in this Resistor = 270 Watts.
+
+------------------------------------------------
+
+Data for Electric Network # 3:
+Network # 3 is a Current Divider.
+At present, there are 4 Networks in existence.
+At present, there are 11 nodes in existence.
+Network # 3 contains 2 nodes.
+Voltage at node 9 = 0.
+Voltage at node 10 = 500.
+At present, there are 12 components in existence.
+
+Component # 9 is a DC Current Source, Is = 1 Amps.
+Component # 9 is connected between node 9 and node 10.
+The Voltage across Component # 9 = 500 Volts,
+with the negative terminal at node 9.
+The current in this DC Current Source = 1 Amps,
+flowing from Node 9 to Node 10.
+The power supplied by this DC Current Source = 500 Watts.
+
+Component # 10 is a Resistor, R = 1000 Ohms.
+Component # 10 is connected between node 9 and node 10.
+The Voltage across Component # 10 = 500 Volts,
+with the negative terminal at node 9.
+The current in this Resistor = 0.5 Amps,
+flowing from Node 10 to Node 9.
+The power dissipated in this Resistor = 250 Watts.
+
+Component # 11 is a Resistor, R = 1000 Ohms.
+Component # 11 is connected between node 9 and node 10.
+The Voltage across Component # 11 = 500 Volts,
+with the negative terminal at node 9.
+The current in this Resistor = 0.5 Amps,
+flowing from Node 10 to Node 9.
+The power dissipated in this Resistor = 250 Watts.
+
+------------------------------------------------
+
+Data for Electric Network # 4:
+Network # 4 is a Current Divider.
+At present, there are 5 Networks in existence.
+At present, there are 13 nodes in existence.
+Network # 4 contains 2 nodes.
+Voltage at node 11 = 0.
+Voltage at node 12 = 75.
+At present, there are 15 components in existence.
+
+Component # 12 is a DC Current Source, Is = 0.006 Amps.
+Component # 12 is connected between node 11 and node 12.
+The Voltage across Component # 12 = 75 Volts,
+with the negative terminal at node 11.
+The current in this DC Current Source = 0.006 Amps,
+flowing from Node 11 to Node 12.
+The power supplied by this DC Current Source = 0.45 Watts.
+
+Component # 13 is a Resistor, R = 15000 Ohms.
+Component # 13 is connected between node 11 and node 12.
+The Voltage across Component # 13 = 75 Volts,
+with the negative terminal at node 11.
+The current in this Resistor = 0.005 Amps,
+flowing from Node 12 to Node 11.
+The power dissipated in this Resistor = 0.375 Watts.
+
+Component # 14 is a Resistor, R = 75000 Ohms.
+Component # 14 is connected between node 11 and node 12.
+The Voltage across Component # 14 = 75 Volts,
+with the negative terminal at node 11.
+The current in this Resistor = 0.001 Amps,
+flowing from Node 12 to Node 11.
+The power dissipated in this Resistor = 0.075 Watts.
+
+------------------------------------------------
+
+Data for Electric Network # 5:
+Network # 5 is a Current Divider.
+At present, there are 6 Networks in existence.
+At present, there are 15 nodes in existence.
+Network # 5 contains 2 nodes.
+Voltage at node 13 = 0.
+Voltage at node 14 = -1440.
+At present, there are 18 components in existence.
+
+Component # 15 is a DC Current Source, Is = -0.2 Amps.
+Component # 15 is connected between node 13 and node 14.
+The Voltage across Component # 15 = 1440 Volts,
+with the negative terminal at node 14.
+The current in this DC Current Source = 0.2 Amps,
+flowing from Node 14 to Node 13.
+The power supplied by this DC Current Source = 288 Watts.
+
+Component # 16 is a Resistor, R = 18000 Ohms.
+Component # 16 is connected between node 13 and node 14.
+The Voltage across Component # 16 = 1440 Volts,
+with the negative terminal at node 14.
+The current in this Resistor = 0.08 Amps,
+flowing from Node 13 to Node 14.
+The power dissipated in this Resistor = 115.2 Watts.
+
+Component # 17 is a Resistor, R = 12000 Ohms.
+Component # 17 is connected between node 13 and node 14.
+The Voltage across Component # 17 = 1440 Volts,
+with the negative terminal at node 14.
+The current in this Resistor = 0.12 Amps,
+flowing from Node 13 to Node 14.
+The power dissipated in this Resistor = 172.8 Watts.

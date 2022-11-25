@@ -1,0 +1,29 @@
+Voltage Divider
+12
+200
+100
+
+Voltage Divider
+-15
+3000
+12000
+
+Voltage Divider
+300
+30
+270
+
+Current Divider
+1
+1000
+1000
+
+Current Divider
+0.006
+15000
+75000
+
+Current Divider
+-0.2
+18000
+12000
